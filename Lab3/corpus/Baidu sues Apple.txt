@@ -1,0 +1,11 @@
+Baidu has sued Apple and some app makers after what's said to be fake copies of the Chinese web giant's ERNIE AI chatbot appeared in the iGiant's app store.
+For those unaware, ERNIE is Baidu's answer to the West's ChatGPT, though right now it's only available in a limited preview to those with test accounts. There are, according to Baidu, no official releases of the chatbot.
+Baidu told The Register Monday it filed its lawsuit against the alleged makers of ERNIE-powered apps in a Haidian District People's Court in Beijing as well as Apple, which we're informed allowed the software onto its shelves.
+“Currently, there are no official apps for ERNIE Bot ... any ERNIE Bot app found on the App Store and other application stores is fake,” Baidu's spokespeople told El Reg.
+In late March, Baidu also took to Weibo to complain some websites and internet communities were selling access to test versions of ERNIE for profit, which the search giant said “seriously affects the normal testing order of ERNIE, harms the user experience, and violates ERNIE test rules and relevant laws and regulations.”
+The biz said it would freeze or ban access to those shared test accounts, and take legal action against anyone caught transferring or selling testing accounts.
+There were reportedly at least four fake ERNIE apps in Apple's App Store over the weekend.
+Baidu’s ERNIE is considered a front runner in China’s race to secure a domestic analogue to OpenAI's GPT series.
+ERNIE's launch teaser revealed a large language model that produced answers to requests with varying degrees of accuracy, and went blank when asked questions that may offend Beijing sensibilities.
+In late March, the biz was scheduled to conduct a public demo. That demonstration did not go ahead as planned, and was instead greatly reduced in number of attendees, leaving much of the media and public out.
+Baidu told The Register at the time the demo was "transformed into a closed-door communication meeting for the first batch of invited testing enterprises" as this would "allow for more in-depth and comprehensive technical exchanges and interactions."
